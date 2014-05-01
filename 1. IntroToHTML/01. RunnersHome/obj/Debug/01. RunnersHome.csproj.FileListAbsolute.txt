@@ -1,0 +1,5 @@
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\01. RunnersHome\bin\_01.RunnersHome.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\01. RunnersHome\bin\_01.RunnersHome.pdb
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\01. RunnersHome\obj\Debug\01. RunnersHome.csprojResolveAssemblyReference.cache
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\01. RunnersHome\obj\Debug\_01.RunnersHome.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\01. RunnersHome\obj\Debug\_01.RunnersHome.pdb

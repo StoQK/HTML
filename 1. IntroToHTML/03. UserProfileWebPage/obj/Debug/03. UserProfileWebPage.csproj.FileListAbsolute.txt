@@ -1,0 +1,10 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\IntroToHTML\03. UserProfileWebPage\bin\_03.UserProfileWebPage.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\IntroToHTML\03. UserProfileWebPage\bin\_03.UserProfileWebPage.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\IntroToHTML\03. UserProfileWebPage\obj\Debug\03. UserProfileWebPage.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\IntroToHTML\03. UserProfileWebPage\obj\Debug\_03.UserProfileWebPage.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\IntroToHTML\03. UserProfileWebPage\obj\Debug\_03.UserProfileWebPage.pdb
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\03. UserProfileWebPage\bin\_03.UserProfileWebPage.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\03. UserProfileWebPage\bin\_03.UserProfileWebPage.pdb
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\03. UserProfileWebPage\obj\Debug\03. UserProfileWebPage.csprojResolveAssemblyReference.cache
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\03. UserProfileWebPage\obj\Debug\_03.UserProfileWebPage.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\03. UserProfileWebPage\obj\Debug\_03.UserProfileWebPage.pdb

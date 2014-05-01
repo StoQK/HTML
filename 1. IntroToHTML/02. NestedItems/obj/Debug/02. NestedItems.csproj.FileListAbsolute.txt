@@ -1,0 +1,4 @@
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\02. NestedItems\bin\_02.NestedItems.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\02. NestedItems\bin\_02.NestedItems.pdb
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\02. NestedItems\obj\Debug\_02.NestedItems.dll
+D:\Telerik\Academy\HTML 5\1. Intro to HTML\Homeworks\1. IntroToHTML\02. NestedItems\obj\Debug\_02.NestedItems.pdb
