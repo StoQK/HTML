@@ -1,0 +1,57 @@
+table {
+	border-collapse: collapse;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
+
+thead {
+	background-color: #E0E0E0;
+}
+
+tfoot {
+	background-color: #E0E0E0;
+}
+
+th {
+	padding-left: 5px;
+	text-align: left;
+}
+.col1 {
+	width: 50px;
+}
+
+.col3 {
+	width: 150px;
+}
+
+.col5 {
+	width: 170px;
+}
+
+.col6 {
+	padding-left: 5px;
+	text-align: left;
+}
+
+.textbox1 {
+	width: 45%;
+}
+
+.textbox3 {
+	width: 60%;
+}
+
+.textbox5 {
+	width: 60%;
+}
+
+.checkbox {
+	margin-left: 8px;
+}
+
+.pfoot {
+	display: inline;
+	margin-left: 435px;
+}

@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Personal Information</title>
+	</head >
+	<body>
+		<div>
+			<table border="1">
+				<form name="InformationForm" method="post">
+					<tr>
+						<td>
+							<label for="ln">Last Name</label>
+						</td>
+						<td>
+							<input type="text" id="ln" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="fn">First Name</label>
+						</td>
+						<td>
+							<input type="text" id="fn" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="address">Address</label>
+						</td>
+						<td>
+							<textarea id="address"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="city">City</label>
+						</td>
+						<td>
+							<input type="text" id="city" />
+							<label for="state">State</label>
+							<input type="text" id="state" />
+						</td>	
+					</tr>
+					<tr>
+						<td>
+							<label for="zip">Zip/Postal Code</label>
+						</td>
+						<td>
+							<input type="text" id="zip" />
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							<label>Country</label>
+						</td>
+						<td>
+							<select name="country">
+								<option value="Bulgaria" selected="selected">Bulgaria</option>
+								<option value="USA">USA</option>
+								<option value="Germany">Germany</option>
+								<option value="Uruguay">Uruguay</option>
+								<option value="Canada">Canada</option>
+							</select>	
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>Phone <br>(country code, area code, number)</br></label>
+						</td>
+						<td>
+							(+
+							<input type="text" size="2px" maxlength="3" />
+							)
+							<input type="text" size="10px" />
+							-
+							<input type="text" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>E-mail</label>
+						</td>
+						<td>
+							<input type="email" pattern="\b[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>Birth date</label>
+						</td>
+						<td>
+							Month
+							<input type="text" />
+							Day
+							<input type="text" />
+							Year(4 digits)
+							<input type="text" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>Gender</label>
+						</td>
+						<td>
+							<select name="gender">
+								<option value="Male">Male</option>
+								<option value="Female">Female</option>
+								<option value="Unknown">Unknown</option>
+							</select>	
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="spr">Starting Date</label>
+						</td>
+						<td>
+							<input type="radio" name="date" id="spr" value="Spring 2006" />
+								<label for="spr">Spring 2006</label>
+							<input type="radio" name="date" id="smr" value="Summer 2006" /> 
+								<label for="smr">Summer 2006</label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="comm">Comments/Questions></label>
+						</td>
+						<td>
+							<textarea id="comm"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" bgcolor="#CCFFFF">
+							<input type="submit" value="Submit"></input>
+							<input type="reset" value="Clear This Form"></input>
+						</td>
+					</tr>
+
+				</form>
+			
+			</table>
+		</div>
+	
+	</body>
+	
+	
+</html>

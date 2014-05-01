@@ -1,0 +1,4 @@
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\03. CalculatorForms\bin\_03.CalculatorForms.dll
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\03. CalculatorForms\bin\_03.CalculatorForms.pdb
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\03. CalculatorForms\obj\Debug\_03.CalculatorForms.dll
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\03. CalculatorForms\obj\Debug\_03.CalculatorForms.pdb

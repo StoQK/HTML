@@ -1,0 +1,5 @@
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\02. StudentForms\bin\_02.StudentForms.dll
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\02. StudentForms\bin\_02.StudentForms.pdb
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\02. StudentForms\obj\Debug\02. StudentForms.csprojResolveAssemblyReference.cache
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\02. StudentForms\obj\Debug\_02.StudentForms.dll
+c:\Users\Stoyan\documents\visual studio 2013\Projects\Tables\02. StudentForms\obj\Debug\_02.StudentForms.pdb

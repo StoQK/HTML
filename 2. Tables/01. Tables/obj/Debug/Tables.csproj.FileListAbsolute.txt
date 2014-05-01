@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Tables\Tables\bin\Tables.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Tables\Tables\bin\Tables.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.pdb
